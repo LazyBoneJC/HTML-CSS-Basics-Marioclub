@@ -9,7 +9,7 @@
 
 ![image](https://github.com/LazyBoneJC/HTML-CSS-Basics-Marioclub/blob/master/Marioclub_webpage/2.png?raw=true)
 
-### When user input the currect form of email, the border outside will turn green.
+### When user input the currect form of email, the outside of border will turn green.
 
 * `form input:valid { border: 4px solid #71d300; }`
 
