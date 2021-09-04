@@ -1,5 +1,6 @@
 # HTML-CSS-Basics-Marioclub
 ### This is a HTML/CSS Basics responsive webpage.
+https://lazybonejc.github.io/HTML-CSS-Basics-Marioclub/
 
 ![image](https://github.com/LazyBoneJC/HTML-CSS-Basics-Marioclub/blob/master/Marioclub_webpage/1.png?raw=true)
 ### The top header and nav bar will stick together when user scrolling down.
